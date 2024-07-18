@@ -3,11 +3,11 @@ layout: about
 title: About
 ---
 
-## About Justice & Sons IT Company
+## About Okwuoha Justice Cloud Solutions
 
 **Company Overview:**
 
-Justice & Sons is a leading IT solutions software company specializing in providing innovative technology solutions to businesses across various industries. With a strong focus on customer satisfaction and technological advancement, we empower organizations to optimize their operations, enhance productivity, and achieve their business objectives.
+Okwuoha Justice Cloud Solutions is a leading IT solutions software company specializing in providing innovative technology solutions to businesses across various industries. With a strong focus on customer satisfaction and technological advancement, we empower organizations to optimize their operations, enhance productivity, and achieve their business objectives.
 
 **Services Offered:**
 
