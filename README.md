@@ -1,4 +1,4 @@
-# guide/process on weekly routine task
+# guide/process on weekly routine taskes
 
 1\. Audit & Sign-in Logs Review (Microsoft Entra)&#x20;
 
