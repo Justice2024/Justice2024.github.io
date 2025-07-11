@@ -1,3 +1,3 @@
 # Table of contents
 
-* [guide/process on weekly routine tasked](README.md)
+* [guide/process on weekly routine task](README.md)
