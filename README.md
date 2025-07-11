@@ -1,4 +1,4 @@
-# guide/process on weekly routine task
+# guide/process on weekly routine taskes
 
 1. Audit & Sign-in Logs Review (Microsoft Entra) Purpose: Identify unauthorized access, unfamiliar users, or anomalous sign-in behavior. Steps: Sign in to Microsoft Entra Admin Center. Navigate to: Monitoring & Health > Sign-in Logs. Filter logs for: Status (success, failure, interrupted) Last 7/30 days (as applicable). Unsuccessful sign-ins, unfamiliar locations, or users with high-risk sign-ins. Review each entry for: Unrecognized usernames or GUIDs. Suspicious IP addresses or locations. Application sign-in anomalies
 2. Documentation Templates:
