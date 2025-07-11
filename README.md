@@ -15,7 +15,7 @@ Suspicious IP addresses or locations.
 Application sign-in anomalies.
 
 
-Documentation Template:
+sample types of things
 
 * Date of Review
 * Outcome: Brief summary of findings.
